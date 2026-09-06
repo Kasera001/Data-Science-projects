@@ -56,23 +56,23 @@ The project follows an end-to-end machine learning workflow:
 12. Final Model Selection
 
 ## Technologies used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Jupyter Notebook
+1. Python
+2. Pandas
+3. NumPy
+4. Matplotlib
+5. Seaborn
+6. Scikit-learn
+7. Jupyter Notebook
 
 
 ## Key Business Questions
 
 The analysis aims to answer questions such as:
 
-What proportion of customers churn?
-Which customer characteristics are associated with churn?
-Does customer tenure influence churn?
-How do contract types affect churn?
-Does monthly spending relate to churn?
-Which services are associated with higher churn?
-Which machine learning model performs best?
+1. What proportion of customers churn?
+2. Which customer characteristics are associated with churn?
+3. Does customer tenure influence churn?
+4. How do contract types affect churn?
+5. Does monthly spending relate to churn?
+6. Which services are associated with higher churn?
+7. Which machine learning model performs best?
